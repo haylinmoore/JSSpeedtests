@@ -1,0 +1,3 @@
+Initalized with test count of 10000 with array sizes of 1000000
+indexOf Took  15.96854713230133 milliseconds per array.
+includes took  16.441228664684296 milliseconds per array.

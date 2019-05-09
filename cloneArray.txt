@@ -1,0 +1,4 @@
+Initalized with test count of 10000 with array sizes of 100000
+Spread Operator Took  11.647485232734681 milliseconds per array.
+Splice Took  0.006217693424224854 milliseconds per array.
+Stringify/Parse Took  82.63282002105713 milliseconds per array.
